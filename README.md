@@ -1,6 +1,10 @@
 # HR-ANALYTICS-DASHBOARD
 # HR Analytics Dashboard: Employee Attrition Analysis
 
+![Screenshot 2024-04-30 122813](https://github.com/hinalmetaliya/HR-ANALYTICS-DASHBOARD/assets/145344927/d95cf9a8-f1ff-4807-90c7-91dbc1312966)
+![Screenshot 2024-04-30 122218](https://github.com/hinalmetaliya/HR-ANALYTICS-DASHBOARD/assets/145344927/7d46b1bc-d4d3-41c2-be13-8e53346a9dcb)
+![Screenshot 2024-04-30 122739](https://github.com/hinalmetaliya/HR-ANALYTICS-DASHBOARD/assets/145344927/dd48859d-b2be-405f-a791-fa550a461c90)
+
 Introduction:
 Welcome to the HR Analytics Dashboard, designed to provide insightful analysis on employee attrition within the company. This dashboard offers a comprehensive view of employee turnover based on various criteria such as education, age, and more. By leveraging data-driven insights, HR professionals can make informed decisions to enhance retention strategies and foster a healthier work environment.
 
